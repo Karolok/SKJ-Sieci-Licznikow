@@ -71,35 +71,3 @@ ostatnim przypadku, monitor powinien umożliwiać wysyłanie polecenia SYN do do
 wybranego agenta (jeden punkt) oraz odłączenie agenta od sieci (jeden punkt). Odłączenie
 agenta wymaga oczywiście uaktualnienia mapy sieci i ponownej synchronizacji pozostałych
 agentów.
-Wymagania i sposób oceny
-1. Poprawny i pełny projekt wart jest 5 punktów (plus 2 dodatkowe za zrealizowanie
-opcjonalnej funkcjonalności). Za zrealizowanie każdej z poniższych funkcjonalności
-można otrzymać punkty do podanej wartości.
-• Poprawne dodawanie agentów do sieci, wymiana danych o połączeniach w sieci.
-2 punkty.
-• Poprawna synchronizacja zegarów. 2 punkt.
-• Podstawowa funkcjonalność monitora. 1 punkt.
-• Można uzyskać dwa dodatkowe punkty za realizację monitora w postaci serwera
-http o funkcjonalności jak powyżej.
-2. Aplikację piszemy w języku Java zgodnie ze standardem Java 8 (JDK 1.8). Do komunikacji
-przez sieć można wykorzystać jedynie podstawowe klasy do komunikacji z
-wykorzystaniem protokołu TCP. Za zgodą prowadzącego grupę można wybrać inny
-język.
-3. Projekty powinny zostać zapisane do odpowiednich katalogów w systemie EDUX w
-nieprzekraczalnym terminie 26.XI.2017 (termin może zostać zmieniony przez prowadzącego
-grupę).
-4. Spakowany plik projektu powinien obejmować:
-• Plik Dokumentacja(nr.indeksu)Zad1.pdf, opisujący, co zostało zrealizowane, co
-się nie udało, gdzie ewentualnie są błędy, których nie udało się poprawić.
-• Pliki źródłowe (dla JDK 1.8) (włącznie z wszelkimi bibliotekami nie należącymi
-do standardowej instalacji Javy, których autor użył) - aplikacja musi dać się bez
-problemu skompilować na komputerach w laboratorium w PJA.
-UWAGA: PLIK Z DOKUMENTACJĄ JEST WARUNKIEM KONIECZNYM PRZYJĘCIA
-PROJEKTU DO OCENY.
-3
-5. Prowadzący oceniać będą w pierwszym rzędzie poprawność działania programu i
-zgodność ze specyfikacją, ale na ocenę wpływać będzie także zgodność wytworzonego
-oprogramowania z zasadami inżynierii oprogramowania i jakość implementacji.
-6. JEŚLI NIE WYSZCZEGÓLNIONO INACZEJ, WSZYSTKIE NIEJASNOŚCI NALEŻY
-PRZEDYSKUTOWAĆ Z PROWADZĄCYM ZAJĘCIA POD GROŹBĄ NIEZALICZENIA
-PROGRAMU W PRZYPADKU ICH NIEWŁAŚCIWEJ INTERPRETACJI.
